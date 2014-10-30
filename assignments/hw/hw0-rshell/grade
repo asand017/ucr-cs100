@@ -1,2 +1,4 @@
 0 / 100
 Talk to professor, compile issue
+Regraded on 10/30, but still same 0. Why?
+Compile issue -40, ls -al, ls -a -l no work -20, Multicommand not work -30, Coments not work -20, exit works +20, Thus still zero.
