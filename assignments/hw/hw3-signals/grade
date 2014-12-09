@@ -1,1 +1,4 @@
-/ 100
+50 / 100
+Checksyscall -10 part1 20 part2 30 part3 10
+part1: no executable in current directory
+part3: crash with cd parameters or no parameter and absoulte directory problem
